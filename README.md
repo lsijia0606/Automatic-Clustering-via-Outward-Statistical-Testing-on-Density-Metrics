@@ -12,4 +12,4 @@ This algorithm proposes a new clustering algorithm that can detect the clusterin
     0/other: Whether to show the graph. Yes: input a number to represent the length of x_axle; No: 0  
 ### Result Explanation:  
     result_df: cluster results for top n values in each cluster  
-    value_prediction: value with its predicted attributes and probability  
+    cluster_df_top: value with its predicted attributes and probability  
